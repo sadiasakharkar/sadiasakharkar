@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sadia Sakharkar</h1>
+![Banner](https://www.pinterest.com/pin/home-ideas--104356916359601590/)
+
+<h1 align="center">Hello 👋, I'm Sadia Sakharkar</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiasakharkar&label=Profile%20views&color=0e75b6&style=flat" alt="sadiasakharkar" /> </p>
