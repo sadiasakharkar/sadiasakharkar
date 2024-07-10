@@ -1,4 +1,4 @@
-![Banner](gitbanner.JPG)
+
 
 <h1 align="center">Hello 👋, I'm Sadia Sakharkar</h1>
 <h3 align="center">Computer Engineering Student</h3>
