@@ -35,7 +35,7 @@ But technology isn't my only passion! I'm also an avid coder who enjoys creating
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiasakharkar&show_icons=true&locale=en&layout=compact&theme=dark" alt="sadiasakharkar" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=sadiasakharkar&show_icons=true&locale=en&theme=dark" alt="sadiasakharkar" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiasakharkar&theme=dark" alt="sadiasakharkar" /></p>
-  <p><img src="https://komarev.com/ghpvc/?username=sadiasakharkar&label=Profile%20views&color=0e75b6&style=flat" alt="sadiasakharkar" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=sadiasakharkar&label=Profile%20views&color=FF4500&style=plastic" alt="sadiasakharkar" style="width: 150px; height: auto;" /></p>
   <img src="https://github.com/sadiasakharkar/sadiasakharkar/raw/ffd4e81ed7a7f2706480e14b6762a555d56f8d37/github-snake.svg" alt="Snake Game" width="100%" height="400" style="margin-top: 10px;"/>
 </div>
 
