@@ -8,11 +8,11 @@ But technology isn't my only passion! I'm also an avid coder who enjoys creating
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
-  <a href="mailto:sadia.sakharkar@example.com" target="_blank">
+  <a href="mailto:sakharkarsadia@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sadia-sakharkar/" target="_blank">
+  <a href="https://www.linkedin.com/in/sadiasakharkar/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
   </a>
 </p>
