@@ -6,8 +6,17 @@ I'm a Computer Engineering student on an exciting journey through the world of t
 
 But technology isn't my only passion! I'm also an avid coder who enjoys creating games and exploring new programming languages. I’m currently exploring ways to create engaging and interactive games. Beyond coding, I’m fascinated by space exploration. I love diving into how technology and data can advance our understanding of the cosmos.
 
+<h3 align="left">Connect with Me</h3>
+<p align="left">
+  <a href="mailto:sadia.sakharkar@example.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sadia-sakharkar/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
+  </a>
+</p>
 
-- 📫 How to reach me: **sakharkarsadia@gmail.com**
 
 #### Languages:
 | C | C++ | Java | Python |
