@@ -48,4 +48,12 @@ But technology isn't my only passion! I'm also an avid coder who enjoys creating
   <img src="https://github.com/sadiasakharkar/sadiasakharkar/raw/ffd4e81ed7a7f2706480e14b6762a555d56f8d37/github-snake.svg" alt="Snake Game" width="100%" height="400" style="margin-top: 10px;"/>
 </div>
 
-
+<!-- Go to Top with Animated Icon -->
+<p align="right" style="margin-top: 20px;">
+  <a href="#top" style="text-decoration: none; display: inline-flex; align-items: center; font-size: 24px; color: #ff8c00; transition: color 0.3s;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40" fill="currentColor" style="transition: transform 0.3s, fill 0.3s;">
+      <path d="M12 2L5 9h14L12 2zm0 18l7-7H5l7 7z"/>
+    </svg>
+    <span style="margin-left: 8px; font-weight: bold;">Back to Top</span>
+  </a>
+</p>
