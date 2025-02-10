@@ -15,8 +15,11 @@ But technology isn't my only passion! I'm also an avid coder who enjoys creating
   <a href="https://www.linkedin.com/in/sadiasakharkar/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/1309883665484091516" target="_blank">
+    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="Discord" height="50" />
+  </a>
 </p>
-
 
 #### Languages:
 | C | C++ | Java | Python |
