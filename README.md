@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Sadia Sakharkar</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-## 🌟 About Me
+## About Me
 I'm a Computer Engineering student on an exciting journey through the world of technology and innovation. Currently, I'm exploring the dynamic fields of AI and Machine Learning, developing a strong foundation in classical techniques and discovering their applications in solving real-world problems.
 
 But technology isn't my only passion! I'm also an avid coder who enjoys creating games and exploring new programming languages. I’m currently exploring ways to create engaging and interactive games. Beyond coding, I’m fascinated by space exploration. I love diving into how technology and data can advance our understanding of the cosmos.
