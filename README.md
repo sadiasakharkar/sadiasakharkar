@@ -43,25 +43,35 @@ But technology isn't my only passion! I'm also an avid coder who enjoys creating
 |---------|-------|------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> |
 
-## 📈 GitHub Stats
+### GitHub Stats:
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiasakharkar&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=sadiasakharkar&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiasakharkar&theme=dark" alt="GitHub Streak" /></p>
-  <p><img src="https://komarev.com/ghpvc/?username=sadiasakharkar&label=Profile%20views&color=FF4500&style=plastic" alt="Profile Views" /></p>
-  <p><img src="https://github-contributor-stats.vercel.app/api?username=sadiasakharkar&theme=dark" alt="GitHub Contribution Stats" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiasakharkar&show_icons=true&locale=en&layout=compact&theme=dark" alt="sadiasakharkar" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=sadiasakharkar&show_icons=true&locale=en&theme=dark" alt="sadiasakharkar" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiasakharkar&theme=dark" alt="sadiasakharkar" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=sadiasakharkar&label=Profile%20views&color=FF4500&style=plastic" alt="sadiasakharkar" /></p>
+  
+  <!-- GitHub Activity Graph -->
+  <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiasakharkar&theme=github-dark" alt="GitHub Activity Graph" /></p>
+  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sadiasakharkar&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </p>
+
+  [![GitHub Skyline](https://skyline.github.com/sadiasakharkar/2024.svg)](https://skyline.github.com/sadiasakharkar)
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiasakharkar&theme=github_dark" />
+  </p>
+
+  <p align="center">
+    <img src="https://github.com/sadiasakharkar/sadiasakharkar/blob/output/github-contribution-grid-snake.svg" />
+  </p>
+
+  <img src="https://github.com/sadiasakharkar/sadiasakharkar/raw/ffd4e81ed7a7f2706480e14b6762a555d56f8d37/github-snake.svg" alt="Snake Game" width="100%" height="400" style="margin-top: 10px;"/>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiasakharkar&theme=github_dark" />
-</p>
 
 
-<p align="center">
-  <img src="https://github.com/sadiasakharkar/sadiasakharkar/raw/ffd4e81ed7a7f2706480e14b6762a555d56f8d37/github-snake.svg" alt="Snake Game" width="100%" height="400" style="margin-top: 10px;"/>
-</p>
-
-## ⏫ Back to Top
 <p align="right">
   <a href="#top" style="text-decoration: none; font-size: 24px; color: #ff8c00; transition: color 0.3s;">
     ⬆️ Back to Top
