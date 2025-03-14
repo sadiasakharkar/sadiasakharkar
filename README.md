@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Sadia Sakharkar</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-### About Me
+## 🌟 About Me
 I'm a Computer Engineering student on an exciting journey through the world of technology and innovation. Currently, I'm exploring the dynamic fields of AI and Machine Learning, developing a strong foundation in classical techniques and discovering their applications in solving real-world problems.
 
 But technology isn't my only passion! I'm also an avid coder who enjoys creating games and exploring new programming languages. I’m currently exploring ways to create engaging and interactive games. Beyond coding, I’m fascinated by space exploration. I love diving into how technology and data can advance our understanding of the cosmos.
 
-<h3 align="left">Connect with Me</h3>
+## 📫 Connect with Me
 <p align="left">
   <a href="mailto:sakharkarsadia@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50" />
@@ -21,42 +21,49 @@ But technology isn't my only passion! I'm also an avid coder who enjoys creating
   </a>
 </p>
 
-#### Languages:
+## 🚀 Skills & Technologies
+
+### 🔹 Languages
 | C | C++ | Java | Python |
 |---|-----|------|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/> |
 
-#### Web Development:
+### 🌐 Web Development
 | HTML | CSS | JavaScript | PHP |
 |------|-----|-------------|-----|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" height="55"/> |
 
-
-#### Best Frameworks and Main Libraries for Python:
+### 🔥 Best Frameworks & Libraries for Python
 | PyTorch | Numpy | Pandas | Scikit-Learn | OpenCV | 
 |---------|-------|--------|--------------|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55" height="55"/> |
 
-#### Tools for Data Manipulation & Visualization:
+### 📊 Data Manipulation & Visualization Tools
 | Jupyter | MySQL | Matplotlib |
 |---------|-------|------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> |
 
-### GitHub Stats:
+## 📈 GitHub Stats
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiasakharkar&show_icons=true&locale=en&layout=compact&theme=dark" alt="sadiasakharkar" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=sadiasakharkar&show_icons=true&locale=en&theme=dark" alt="sadiasakharkar" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiasakharkar&theme=dark" alt="sadiasakharkar" /></p>
-  <p><img src="https://komarev.com/ghpvc/?username=sadiasakharkar&label=Profile%20views&color=FF4500&style=plastic" alt="sadiasakharkar" /></p>
-  <img src="https://github.com/sadiasakharkar/sadiasakharkar/raw/ffd4e81ed7a7f2706480e14b6762a555d56f8d37/github-snake.svg" alt="Snake Game" width="100%" height="400" style="margin-top: 10px;"/>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiasakharkar&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=sadiasakharkar&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiasakharkar&theme=dark" alt="GitHub Streak" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=sadiasakharkar&label=Profile%20views&color=FF4500&style=plastic" alt="Profile Views" /></p>
+  <p><img src="https://github-contributor-stats.vercel.app/api?username=sadiasakharkar&theme=dark" alt="GitHub Contribution Stats" /></p>
 </div>
 
-<!-- Go to Top with Animated Icon -->
-<p align="right" style="margin-top: 20px;">
-  <a href="#top" style="text-decoration: none; display: inline-flex; align-items: center; font-size: 24px; color: #ff8c00; transition: color 0.3s;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40" fill="currentColor" style="transition: transform 0.3s, fill 0.3s;">
-      <path d="M12 2L5 9h14L12 2zm0 18l7-7H5l7 7z"/>
-    </svg>
-    <span style="margin-left: 8px; font-weight: bold;">Back to Top</span>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiasakharkar&theme=github_dark" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/sadiasakharkar/sadiasakharkar/raw/ffd4e81ed7a7f2706480e14b6762a555d56f8d37/github-snake.svg" alt="Snake Game" width="100%" height="400" style="margin-top: 10px;"/>
+</p>
+
+## ⏫ Back to Top
+<p align="right">
+  <a href="#top" style="text-decoration: none; font-size: 24px; color: #ff8c00; transition: color 0.3s;">
+    ⬆️ Back to Top
   </a>
 </p>
