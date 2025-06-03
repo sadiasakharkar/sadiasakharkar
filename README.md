@@ -19,7 +19,12 @@ But technology isn't my only passion! I'm also an avid coder who enjoys creating
   <a href="https://discord.com/users/1309883665484091516" target="_blank">
     <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="Discord" height="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/SadiaSakharkar" target="_blank">
+    <img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" alt="X (Twitter)" height="50" />
+  </a>
 </p>
+
 
 ## 🚀 Skills & Technologies
 
