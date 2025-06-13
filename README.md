@@ -17,9 +17,7 @@ I thrive in environments that challenge the status quo and encourage interdiscip
 🛠️ *Core Interests*:  
 - Intelligent Systems Design  
 - Ethical & Responsible AI  
-- Human-Centered Innovation  
 - Creative Coding 
-- Deep Space Data Analysis
 
 🌱 *Currently Exploring*:  
 - Generative AI architectures
