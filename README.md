@@ -13,19 +13,6 @@ Beyond the realm of software, I am profoundly inspired by the cosmos. Space expl
 
 I thrive in environments that challenge the status quo and encourage interdisciplinary collaboration. Whether it's architecting AI models, crafting immersive experiences, securing digital infrastructures, my journey is fueled by a relentless desire to learn, innovate, and contribute to a more intelligent, secure, and equitable future.
 
----
-🛠️ *Core Interests*:  
-- Intelligent Systems Design  
-- Ethical & Responsible AI  
-- Creative Coding 
-
-🌱 *Currently Exploring*:  
-- Generative AI architectures
-- Edge computing for mobile AI
-
-🌌 *Belief*: *"The future belongs to those who blend code with curiosity."*
-
----
 
 ## 📫 Connect with Me
 <p align="left">
@@ -93,12 +80,6 @@ I thrive in environments that challenge the status quo and encourage interdiscip
 | Git | GitHub |
 |-----|--------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55" height="55"/> |
-
-
-### 🧪 Testing Tools
-| Postman |
-|---------|
-| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" height="55"/> |
 
 
 ### 🚀 Deployment Tools
