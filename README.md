@@ -32,6 +32,8 @@ I thrive in environments that challenge the status quo and encourage interdiscip
     <img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" alt="X (Twitter)" height="50" />
   </a>
 </p>
+
+
 ## 🚀 Skills & Technologies
 
 ### 🔹 Languages
