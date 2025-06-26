@@ -3,15 +3,11 @@
 
 ## 👩‍🚀 About Me
 
-I am a Computer Engineering student, navigating the ever-evolving confluence of technology, intelligence, and human advancement. My academic trajectory is rooted in the intricate domains of Artificial Intelligence and Machine Learning, where I am actively honing expertise in foundational algorithms, statistical modeling, and real-world inference systems. I am particularly captivated by the potential of AI to catalyze transformative solutions across education, healthcare, sustainability, and beyond.
+ I am a Computer Engineering student passionate about the dynamic fusion of technology, intelligence, and human advancement. My journey centers on Artificial Intelligence, Machine Learning, and Cybersecurity — where I delve into algorithms, statistical modeling, AI-driven threat detection, and secure system architecture. I’m particularly inspired by AI’s potential to drive change across education, healthcare, and sustainability.
 
-In parallel, my passion for software development manifests in the exploration of creative coding, game mechanics, and experiential design. I find immense joy in building interactive environments that merge logic with imagination — often experimenting with cross-disciplinary ideas at the intersection of storytelling, user engagement, and computational efficiency.
+Alongside this, I explore creative coding, game design, and interactive environments that blend logic with imagination. I enjoy working at the crossroads of storytelling, user engagement, and computational efficiency. My curiosity also extends to space exploration and astroinformatics, where I’m intrigued by how data science and high-performance computing can help us decode the universe’s mysteries.
 
-My technical pursuits are further enriched by a growing focus on **Cybersecurity**, where I explore the principles of digital trust, ethical hacking, and secure system architecture. I am deeply interested in how intelligent defense mechanisms and AI-driven threat detection can safeguard data integrity and ensure resilience in our increasingly interconnected digital ecosystem.
-
-Beyond the realm of software, I am profoundly inspired by the cosmos. Space exploration, astrophysics, and astroinformatics fuel my intellectual curiosity. I am intrigued by how data-driven models and high-performance computing can unlock new frontiers in our understanding of the universe — from simulating planetary systems to decoding signals from distant galaxies.
-
-I thrive in environments that challenge the status quo and encourage interdisciplinary collaboration. Whether it's architecting AI models, crafting immersive experiences, securing digital infrastructures, my journey is fueled by a relentless desire to learn, innovate, and contribute to a more intelligent, secure, and equitable future.
+Above all, I thrive in collaborative spaces that challenge norms and inspire innovation — always striving to contribute to a smarter, safer, and more inclusive future.
 
 
 ## 📫 Connect with Me
