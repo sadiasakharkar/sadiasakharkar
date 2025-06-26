@@ -32,66 +32,59 @@ I thrive in environments that challenge the status quo and encourage interdiscip
     <img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" alt="X (Twitter)" height="50" />
   </a>
 </p>
-
 ## 🚀 Skills & Technologies
 
 ### 🔹 Languages
 | C | C++ | Java | Python |
 |---|-----|------|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/> |
-
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55"/> |
 
 ### 🌐 Frontend Web Development
 | HTML | CSS | JavaScript | ReactJS |
 |------|-----|------------|---------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/> |
-
+| <img src="https://skillicons.dev/icons?i=html" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=css" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55"/> |
 
 ### 🛠️ Backend Development & Databases
 | Node.js | MongoDB | MySQL | Firebase |
 |---------|---------|-------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="55" height="55"/> |
-
+| <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55"/> |
 
 ### ⚙️ Python Frameworks
 | Flask | FastAPI |
 |-------|---------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="55" height="55"/> |
-
+| <img src="https://skillicons.dev/icons?i=flask" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55"/> |
 
 ### 🤖 AI & Machine Learning Libraries
 | TensorFlow | PyTorch | Scikit-Learn | NumPy | Pandas | OpenCV | Seaborn |
 |------------|---------|--------------|-------|--------|--------|---------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="45"/> |
 
-
 ### 📊 Data Manipulation & Visualization Tools
 | Jupyter | Matplotlib |
 |---------|------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> |
 
+
 ### 📱 Mobile App Development
 | Android Studio | React Native |
 |----------------|--------------|
-| <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/> |
-
+| <img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=react" width="55" height="55"/> |
 
 ### 🔧 Version Control & Collaboration
 | Git | GitHub |
 |-----|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55" height="55"/> |
-
+| <img src="https://skillicons.dev/icons?i=git" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=github" width="55" height="55"/> |
 
 ### 🚀 Deployment Tools
 | Vercel | GitHub Actions |
 |--------|----------------|
-| <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="55" height="55"/> |
-
+| <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55"/> |
 
 ### 🎨 Design & Prototyping Tools
 | Figma |
 |-------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="55" height="55"/> |
+| <img src="https://skillicons.dev/icons?i=figma" width="55" height="55"/> |
+
 
 
 ## 📈 GitHub Stats
