@@ -66,7 +66,7 @@ Above all, I thrive in collaborative spaces that challenge norms and inspire inn
 ### 📱 Mobile App Development
 | Android Studio | React Native |
 |----------------|--------------|
-| <img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=react" width="55" height="55"/> |
+| <img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55"/> |
 
 ### 🔧 Version Control & Collaboration
 | Git | GitHub |
