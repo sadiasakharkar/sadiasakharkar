@@ -9,6 +9,13 @@ Alongside this, I explore creative coding, game design, and interactive environm
 
 Above all, I thrive in collaborative spaces that challenge norms and inspire innovation — always striving to contribute to a smarter, safer, and more inclusive future.
 
+### 🏅 Verified Credential
+
+<p align="left">
+  <a href="https://www.credly.com/badges/9ca89088-8b5b-4440-b526-25c0b082cdf0/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Credly Badge" width="150" />
+  </a>
+</p>
 
 ## 📫 Connect with Me
 <p align="left">
