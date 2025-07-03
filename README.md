@@ -90,7 +90,11 @@ Above all, I thrive in collaborative spaces that challenge norms and inspire inn
 |-------|
 | <img src="https://skillicons.dev/icons?i=figma" width="55" height="55"/> |
 
+### 🛡️ Cybersecurity & OSINT  
+<pre> <span> <img src="https://img.shields.io/badge/Nmap-Scanner-0079C1?style=for-the-badge&logo=gnometerminal&logoColor=white"> <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analyzer-177EBF?style=for-the-badge&logo=wireshark&logoColor=white"> <img src="https://img.shields.io/badge/Metasploit-Framework-6200EA?style=for-the-badge&logo=metasploit&logoColor=white"> <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"> <img src="https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracking-000000?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Hydra-Brute%20Force-F7DF1E?style=for-the-badge&logoColor=black"> <img src="https://img.shields.io/badge/VirusTotal-Malware%20Scanner-0073C0?style=for-the-badge&logo=virustotal&logoColor=white"> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-Threat%20Intel-9E9E9E?style=for-the-badge&logo=matrix&logoColor=white"> </span> </pre>
+<sub><i>🖱️ Scroll to explore →</i></sub>
 
+<br/><br/>
 
 ## 📈 GitHub Stats
 <div align="center">
