@@ -40,19 +40,19 @@ Above all, I thrive in collaborative spaces that challenge norms and inspire inn
 ## 🚀 Skills & Technologies
 
 ### 🔹 Languages
-| C | C++ | Java | Python |
-|---|-----|------|--------|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55"/> |
+| C | C++ | Java | Python | TypeScript |
+|---|-----|------|--------|------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55"/> |
 
 ### 🌐 Frontend Web Development
-| HTML | CSS | JavaScript | ReactJS |
-|------|-----|------------|---------|
-| <img src="https://skillicons.dev/icons?i=html" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=css" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55"/> |
+| HTML | CSS | JavaScript | ReactJS | Angular |
+|------|-----|------------|---------|---------|
+| <img src="https://skillicons.dev/icons?i=html" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=css" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="55" height="55"/> |
 
 ### 🛠️ Backend Development & Databases
-| Node.js | MongoDB | MySQL | Firebase |
-|---------|---------|-------|----------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55"/> |
+| Node.js | MongoDB | MySQL | Firebase | Spring Boot |
+|---------|---------|-------|----------|-------------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" height="55"/> |
 
 ### ⚙️ Python Frameworks
 | Flask | FastAPI |
@@ -68,7 +68,6 @@ Above all, I thrive in collaborative spaces that challenge norms and inspire inn
 | Jupyter | Matplotlib |
 |---------|------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> |
-
 
 ### 📱 Mobile App Development
 | Android Studio | React Native |
