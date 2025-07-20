@@ -51,8 +51,8 @@ Above all, I thrive in collaborative spaces that challenge norms and inspire inn
 
 ### 🛠️ Backend Development & Databases
 | Node.js | MongoDB | MySQL | Firebase | Spring Boot |
-|---------|---------|-------|----------|-------------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" height="55"/> |
+|--------|---------|-------|----------|-------------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="55"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="55"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55"/> |
 
 ### ⚙️ Python Frameworks
 | Flask | FastAPI |
