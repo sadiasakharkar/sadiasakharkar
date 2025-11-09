@@ -5,9 +5,7 @@
 
  I am a Computer Engineering student passionate about the dynamic fusion of technology, intelligence, and human advancement. My journey centers on Artificial Intelligence, Machine Learning, and Cybersecurity where I delve into algorithms, statistical modeling, AI-driven threat detection, and secure system architecture. I’m particularly inspired by AI’s potential to drive change across education, healthcare, and sustainability.
 
-Alongside this, I explore creative coding, game design, and interactive environments that blend logic with imagination. I enjoy working at the crossroads of storytelling, user engagement, and computational efficiency. My curiosity also extends to space exploration and astroinformatics, where I’m intrigued by how data science and high performance computing can help us decode the universe’s mysteries.
-
-Above all, I thrive in collaborative spaces that challenge norms and inspire innovation always striving to contribute to a smarter, safer, and more inclusive future.
+Alongside this, I explore creative coding, game design, and interactive environments that blend logic with imagination. My curiosity also extends to space exploration and astroinformatics, where I’m intrigued by how data science and high performance computing can help us decode the universe’s mysteries. Above all, I thrive in collaborative spaces that challenge norms and inspire innovation always striving to contribute to a smarter, safer, and more inclusive future.
 
 ### 🏅 Verified Credential
 
