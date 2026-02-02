@@ -95,9 +95,6 @@ Alongside this, I explore creative coding, game design, and interactive environm
 
 ## 📈 GitHub Stats
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiasakharkar&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=sadiasakharkar&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
-  <p><img src="https://github-contributor-stats.vercel.app/api?username=sadiasakharkar&theme=dark" alt="GitHub Contribution Stats" /></p>
   <p><img src="https://komarev.com/ghpvc/?username=sadiasakharkar&label=Profile%20views&color=FF4500&style=plastic" alt="Profile Views" /></p>
 </div>
 
